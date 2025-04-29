@@ -8,13 +8,13 @@
 
 The Postmark plugin for Dify allows you to send emails using the Postmark API directly from your Dify applications. This plugin enables your AI applications to communicate with users via email, send notifications, deliver reports, and more.
 
-![Postmark Plugin Screenshot](https://github.com/user-attachments/assets/8f94864c-8a5b-4489-9a1b-d80eb8df7903)
+<img src="https://github.com/user-attachments/assets/8f94864c-8a5b-4489-9a1b-d80eb8df7903" alt="Postmark Plugin Screenshot" width="400" />
 
-![Postmark Plugin Screenshot](https://github.com/user-attachments/assets/24773696-60ac-4600-ae1c-057d73d05dd7)
+<img src="https://github.com/user-attachments/assets/24773696-60ac-4600-ae1c-057d73d05dd7" alt="Postmark Plugin Screenshot" width="400" />
 
-![Postmark Plugin Screenshot](https://github.com/user-attachments/assets/d47002df-5f6b-4c86-9995-a133152261ea)
+<img src="https://github.com/user-attachments/assets/d47002df-5f6b-4c86-9995-a133152261ea" alt="Postmark Plugin Screenshot" width="400" />
 
-![Postmark Plugin Screenshot](https://github.com/user-attachments/assets/d12c7d88-4b20-4808-937e-9fbe10992e43)
+<img src="https://github.com/user-attachments/assets/d12c7d88-4b20-4808-937e-9fbe10992e43" alt="Postmark Plugin Screenshot" width="400" />
 
 
 ## Features
