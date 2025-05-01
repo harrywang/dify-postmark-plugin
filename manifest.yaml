@@ -6,12 +6,14 @@ label:
   en_US: postmark
   ja_JP: postmark
   zh_Hans: postmark
+  zh_Hant: postmark
   pt_BR: postmark
 description:
   en_US: sending emails using postmark api
-  ja_JP: sending emails using postmark api
-  zh_Hans: sending emails using postmark api
-  pt_BR: sending emails using postmark api
+  ja_JP: postmark apiを使用してメールを送信する
+  zh_Hans: 使用postmark api发送电子邮件
+  zh_Hant: 使用 Postmark API 發送電子郵件
+  pt_BR: enviando emails usando a api postmark
 icon: icon.svg
 resource:
   memory: 268435456
